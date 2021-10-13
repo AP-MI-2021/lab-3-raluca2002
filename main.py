@@ -162,4 +162,7 @@ def main():
             break
 
 if __name__ == "__main__":
+    test_get_longest_sum_is_prime()
+    test_get_longest_digit_count_desc()
+    test_get_longest_all_even()
     main()
